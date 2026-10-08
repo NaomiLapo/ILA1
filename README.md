@@ -25,4 +25,9 @@
 ## 18.09.2026 - Woche 5
 - [x] LA_431_1713_Plan_prüfen gemacht
 - [x] Excel: Die Daten müssen in einer anderen Farbe eingegeben werden; die Aufgabe wurde um eine Woche verschoben
-- [x] ZIP für Moodle erstellt 
+- [x] ZIP für Moodle erstellt
+## 25.09.2026 - Woche 6
+- [X] Mission 9 repetiert: Code nicht verstanden, nochmals angeschaut
+- [X] C# Code in Visual Studio geöffnet und Zeile für Zeile geprüft
+- [X] Excel Tabellen fertig gemacht/ergänzt
+- [X] Notizen gemacht 
